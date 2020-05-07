@@ -27,7 +27,7 @@ body{
     list-style:none;
 }
 
-,menu li{
+.menu li{
     color:#B3B3B3;
     display:inline-block;
     margin-right:-2px;
